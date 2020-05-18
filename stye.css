@@ -224,7 +224,9 @@ button{
     color: white;
     padding: 70px 50px;
 }
-
+#footer .logo-footer{
+    padding-left: 30px;
+}
 #footer .contacts{
     display: flex;
     flex-direction: column;
@@ -249,7 +251,9 @@ button{
     margin-left: 10px;
     border-radius: 50%;
     border: 1px solid white;
-    padding: 10px;
+    padding: 6px 6px 6px 10px;
+    height: 20px;
+    width: 20px;
 }
 .col img{
     margin-right: 20px;
