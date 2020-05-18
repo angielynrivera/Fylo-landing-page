@@ -341,7 +341,7 @@ footer{
     #row2 .row2-left, #row2 .illus{
         flex-basis: 50%;
     }
-    #row2 img{
+    #row2 .illus img{
         max-width: 100%;
         height:500px;
     }
