@@ -341,6 +341,9 @@ footer{
     #row2 .row2-left, #row2 .illus{
         flex-basis: 50%;
     }
+    #row2 img{
+        width: 100%;
+    }
     #row2 h1{
         text-align: left;
     }
@@ -365,8 +368,10 @@ footer{
     .row3-left, #row3 form{
         flex-basis: 50%;
     }
-
-    #footer .contacts{
+    #row3 form{
+        align-content: center;
+    }
+     #footer .contacts{
         display: flex;
         flex-direction: row;
     }
