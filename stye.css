@@ -369,10 +369,7 @@ footer{
     .row3-left, #row3 form{
         flex-basis: 50%;
     }
-    #row3 form{
-        align-content: center;
-        align-items: center;
-    }
+
      #footer .contacts{
         display: flex;
         flex-direction: row;
